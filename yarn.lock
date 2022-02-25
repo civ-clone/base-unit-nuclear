@@ -2,6 +2,13 @@
 # yarn lockfile v1
 
 
+"@civ-clone/base-unit-type-air@^0.1.0":
+  "integrity" "sha512-ykVH5YEKKMe3bZU0SHJfooGjiWMaxigWGe0N4hg+TUBuU80thn0O3PBPqjrSX4Xl7hRoFFX0CzwJ3ONZxlWUCw=="
+  "resolved" "https://registry.npmjs.org/@civ-clone/base-unit-type-air/-/base-unit-type-air-0.1.0.tgz"
+  "version" "0.1.0"
+  dependencies:
+    "@civ-clone/core-unit" "^0.1.0"
+
 "@civ-clone/base-unit-type-fortifiable@^0.1.0":
   "integrity" "sha512-XzyDdVhKDE83KqW3UV++cjPxCz1ClLdTGf0i3t4JRlp/IcZ8UoyQj6Tk6/rHZ/0bBbQLENgdic9nlFmfb7WZuQ=="
   "resolved" "https://registry.npmjs.org/@civ-clone/base-unit-type-fortifiable/-/base-unit-type-fortifiable-0.1.0.tgz"
